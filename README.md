@@ -1,6 +1,6 @@
 # osticket-prereqs Hi there 👋 I'm Daylon Ellington, an <a href="https://linkedin.com/in/Daylon">IT Professional</a>@</h1>
 <h2> Information Technolgy projects:</h2>
-
+<img src="https://i.imgur.com/Clzj7Xs.png" alt=-osTicket logo"/>
 <b>osTicket (Help Desk Ticketing System)</b>
 
 [osTicket: prerequisites and Installation](https://github.com/DaylonEllington/osticket-prereqs) 
